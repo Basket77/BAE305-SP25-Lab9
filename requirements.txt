@@ -1,4 +1,3 @@
-pip install --upgrade pip
 !pip install pandas 
 !pip install folium 
 !pip install matplotlib 
