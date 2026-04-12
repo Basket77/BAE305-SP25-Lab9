@@ -193,4 +193,3 @@ if selected_chars:
     plot_filtered_trends(filtered_df, selected_chars)
 else:
     st.info("Select characteristics to view trends.")
-
